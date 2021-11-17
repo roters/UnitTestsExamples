@@ -5,8 +5,6 @@ using Xunit;
 
 namespace UTExamples.Test
 {
-    //moq
-
     public class WeatherProviderTest
     {
         private readonly Mock<IWeekDayProvider> _weekDayProviderMock;

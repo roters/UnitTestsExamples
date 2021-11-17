@@ -5,9 +5,6 @@ using Xunit;
 
 namespace UTExamples.Test
 {
-//    FACT vs Theory
-//     Theory Data Sources -> inline, Class, Member    
-//     exceptions throwing
     public class CalculatorTest
     {
         [Fact]

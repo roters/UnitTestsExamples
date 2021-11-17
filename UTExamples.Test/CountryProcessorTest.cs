@@ -6,10 +6,6 @@ using Xunit;
 
 namespace UTExamples.Test
 {
-    //generowanie danych
-    //autofixture
-    //builder
-
     public class CountryProcessorTest
     {
         [Fact]

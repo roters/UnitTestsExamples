@@ -1,4 +1,8 @@
-﻿namespace UTExamples
+﻿
+
+using System;
+
+namespace UTExamples
 {
     public class WeatherProviderProvider : IWeatherProvider
     {
